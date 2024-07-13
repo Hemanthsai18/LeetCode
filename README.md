@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1803-average-waiting-time](https://github.com/Hemanthsai18/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Hemanthsai18/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/Hemanthsai18/LeetCode/tree/master/2846-robot-collisions) |
 | [3374-count-alternating-subarrays](https://github.com/Hemanthsai18/LeetCode/tree/master/3374-count-alternating-subarrays) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1803-average-waiting-time](https://github.com/Hemanthsai18/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Hemanthsai18/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/Hemanthsai18/LeetCode/tree/master/2846-robot-collisions) |
 ## String
 |  |
 | ------- |
@@ -46,8 +48,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hemanthsai18/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthsai18/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/Hemanthsai18/LeetCode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthsai18/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Sorting
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/Hemanthsai18/LeetCode/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
