@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hemanthsai18/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Hemanthsai18/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthsai18/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
@@ -57,4 +58,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/Hemanthsai18/LeetCode/tree/master/2846-robot-collisions) |
+## Hash Table
+|  |
+| ------- |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Hemanthsai18/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Hemanthsai18/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Hemanthsai18/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
