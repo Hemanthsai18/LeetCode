@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/Hemanthsai18/LeetCode/tree/master/0482-license-key-formatting) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hemanthsai18/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Hemanthsai18/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthsai18/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
