@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Hemanthsai18/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Hemanthsai18/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1803-average-waiting-time](https://github.com/Hemanthsai18/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Hemanthsai18/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Hemanthsai18/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Hemanthsai18/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3374-count-alternating-subarrays](https://github.com/Hemanthsai18/LeetCode/tree/master/3374-count-alternating-subarrays) |
 ## Recursion
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Hemanthsai18/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2846-robot-collisions](https://github.com/Hemanthsai18/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -72,4 +75,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Hemanthsai18/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Hemanthsai18/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Hemanthsai18/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Hemanthsai18/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Hemanthsai18/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
