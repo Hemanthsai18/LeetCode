@@ -98,11 +98,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemanthsai18/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Hemanthsai18/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Hemanthsai18/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Hemanthsai18/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemanthsai18/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Hemanthsai18/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Hemanthsai18/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Hemanthsai18/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
